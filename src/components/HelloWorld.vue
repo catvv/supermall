@@ -9,6 +9,11 @@
     <h3>Installed CLI Plugins</h3>
     <ul>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
+<<<<<<< HEAD
+=======
+      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-router" target="_blank" rel="noopener">router</a></li>
+      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-vuex" target="_blank" rel="noopener">vuex</a></li>
+>>>>>>> 1935429 (init)
     </ul>
     <h3>Essential Links</h3>
     <ul>
@@ -39,7 +44,11 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
+<<<<<<< HEAD
 <style scoped>
+=======
+<style scoped lang="less">
+>>>>>>> 1935429 (init)
 h3 {
   margin: 40px 0 0;
 }
